@@ -1,4 +1,4 @@
-var vg_1 = "malaysia_immigration.json";
+var vg_1 = "malaysian_immigration.json";
 vegaEmbed("#map", vg_1).then(function(result) {
 // Access the Vega view instance
 (https://vega.github.io/vega/docs/api/view/) as result.view
