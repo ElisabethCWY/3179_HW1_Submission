@@ -1,7 +1,5 @@
 var vg_1 = "malaysia_immigration.vg.json";
 vegaEmbed("#map", vg_1).then(function(result) {
-
 // Access the Vega view instance
-var view = result.view; 
-
+(https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
